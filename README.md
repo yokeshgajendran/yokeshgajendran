@@ -1,5 +1,62 @@
 # 💫 About Me:
-# 👋 Hi, I'm Yokesh  <br><br>🎓 MSc Data Analytics | 📊 Data-Driven Problem Solver | 🤖 Applied Machine Learning  <br><br>I am a data analytics graduate with a background in Mathematics, passionate about transforming data into actionable business insights. My work focuses on applying machine learning and analytics techniques to solve real-world problems, especially in startup and business environments.<br><br>Currently building projects in:<br>- Data Analytics  <br>- Machine Learning  <br>- Business Intelligence  <br><br>---<br><br>## 🚀 Portfolio Projects<br><br>---<br><br>### 📌 1. Real Estate Property Management Database (SQL Project)<br>Designed relational database with ERD and implemented SQL queries.<br><br>🔗 [View Project](https://github.com/yokeshgajendran/property-management-sql)<br><br>---<br><br>### 📌 2. COVID-19 India Tableau Dashboard<br>Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality rates, and state-wise comparisons.  <br><br>🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)<br><br>---<br><br>### 📌 3. E-Commerce Website Traffic Analysis — Tableau<br>Interactive Tableau dashboard exploring conversion trends, bounce rates, and user engagement across traffic sources for an e-commerce client scenario. <br><br>🔗 [View Project](https://github.com/yokeshgajendran/website-traffic-analysis-tableau)<br><br>---<br><br>## 🛠 Technical Skills<br><br>Programming & Tools:  <br>Python | SQL | Tableau | Pandas | NumPy | Scikit-learn  <br><br>Machine Learning:  <br>Regression | Classification | Model Evaluation | Cross-validation | Feature Engineering | Imbalanced Data Handling  <br><br>Analytics:  <br>Exploratory Data Analysis | Data Cleaning | Business Insights | Dashboarding  <br><br>---<br><br>## 📈 Career Focus<br>I am seeking data-focused roles involving:<br>- Data analytics & reporting<br>- Applied machine learning<br>- Business intelligence<br><br>---
+# 👋 Hi, I'm Yokesh  
+
+🎓 MSc Data Analytics | 📊 Data-Driven Problem Solver | 🤖 Applied Machine Learning  
+
+I am a data analytics graduate with a background in Mathematics, passionate about transforming data into actionable business insights. My work focuses on applying machine learning and analytics techniques to solve real-world problems, especially in startup and business environments.
+
+Currently building projects in:
+- Data Analytics  
+- Machine Learning  
+- Business Intelligence  
+
+---
+
+## 🚀 Portfolio Projects
+
+---
+
+### 📌 1. Real Estate Property Management Database (SQL Project)
+Designed relational database with ERD and implemented SQL queries.
+
+🔗 [View Project](https://github.com/yokeshgajendran/property-management-sql)
+
+---
+
+### 📌 2. COVID-19 India Tableau Dashboard
+Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality rates, and state-wise comparisons.  
+
+🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
+
+---
+
+### 📌 3. E-Commerce Website Traffic Analysis — Tableau
+Interactive Tableau dashboard exploring conversion trends, bounce rates, and user engagement across traffic sources for an e-commerce client scenario. 
+
+🔗 [View Project](https://github.com/yokeshgajendran/website-traffic-analysis-tableau)
+
+---
+
+## 🛠 Technical Skills
+
+Programming & Tools:  
+Python | SQL | Tableau | Pandas | NumPy | Scikit-learn  
+
+Machine Learning:  
+Regression | Classification | Model Evaluation | Cross-validation | Feature Engineering | Imbalanced Data Handling  
+
+Analytics:  
+Exploratory Data Analysis | Data Cleaning | Business Insights | Dashboarding  
+
+---
+
+## 📈 Career Focus
+I am seeking data-focused roles involving:
+- Data analytics & reporting
+- Applied machine learning
+- Business intelligence
+
+---
 
 
 ## 🌐 Socials:
