@@ -3,7 +3,7 @@
 👋 Hi, I'm Yokesh  
 🎓 MSc Data Analytics | 📊 Data-Driven Problem Solver | 🤖 Applied Machine Learning  
 
-I am a data analytics graduate with a background in Mathematics, passionate about transforming data into actionable business insights. My work focuses on applying machine learning and analytics techniques to solve real-world problems, especially in startup and business environments.
+I am a data analytics graduate with a background in Mathematics, passionate about transforming data into actionable business insights. My work focuses on applying machine learning and analytics techniques to solve real-world problems, with projects involving business intelligence, web analytics, and predictive modeling..
 
 Currently building projects in:
 - Data Analytics  
