@@ -1,6 +1,6 @@
 # 💫 About Me:
-# 👋 Hi, I'm Yokesh  
 
+👋 Hi, I'm Yokesh  
 🎓 MSc Data Analytics | 📊 Data-Driven Problem Solver | 🤖 Applied Machine Learning  
 
 I am a data analytics graduate with a background in Mathematics, passionate about transforming data into actionable business insights. My work focuses on applying machine learning and analytics techniques to solve real-world problems, especially in startup and business environments.
@@ -9,31 +9,6 @@ Currently building projects in:
 - Data Analytics  
 - Machine Learning  
 - Business Intelligence  
-
----
-
-## 🚀 Portfolio Projects
-
----
-
-### 📌 1. Real Estate Property Management Database (SQL Project)
-Designed relational database with ERD and implemented SQL queries.
-
-🔗 [View Project](https://github.com/yokeshgajendran/property-management-sql)
-
----
-
-### 📌 2. COVID-19 India Tableau Dashboard
-Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality rates, and state-wise comparisons.  
-
-🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
-
----
-
-### 📌 3. E-Commerce Website Traffic Analysis — Tableau
-Interactive Tableau dashboard exploring conversion trends, bounce rates, and user engagement across traffic sources for an e-commerce client scenario. 
-
-🔗 [View Project](https://github.com/yokeshgajendran/website-traffic-analysis-tableau)
 
 ---
 
